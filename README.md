@@ -5,7 +5,7 @@
 Here you will find examples of projects completed as part of App Academy Open's (AA Open) software bootcamp. Please browse at your leisure!
 
 Some projects are stand-alone websites or web apps. To see those sites live, please navigate to my online portfolio (which is also hosted in a repository here on GitHub). <br>
-https://matt-scott.github.io
+<a href="https://matt-scott.github.io" target="_blank">https://matt-scott.github.io</a>
 
 Below is a list of some of the topics I have covered through the AA Open curriculum:
 
