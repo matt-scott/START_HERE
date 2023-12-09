@@ -2,7 +2,7 @@
 
 
 
-Here you will find examples of projects completed as part of App Academy Open's (AA Open) software bootcamp. Please browse all of my public repositories at your leisure! There are an additional 150 repositories of completed practice content from App Academy that have been marked to private. I would love the opportunity to talk about them!
+Here you will find examples of projects completed as part of App Academy Open's (AA Open) software bootcamp. Please browse all of my public repositories at your leisure! There are an additional 150 repositories of completed practice content from App Academy that have been marked to private. I would love the opportunity to talk about them in a job interview!
 
 Some projects are stand-alone websites or web apps. To see those sites live, please navigate to my online portfolio (which is also hosted in a repository here on GitHub). <br>
 <a href="https://matt-scott.github.io" target="_blank">https://matt-scott.github.io</a>
