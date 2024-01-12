@@ -1,10 +1,9 @@
 # Welcome to Matt Scott's GitHub Profile
+Please browse all of my public repositories at your leisure! You will find repositories of two types: those completed as part of App Academy Open's (AA Open) software bootcamp, and those completed on my own as personal projects.
 
+Personal projects - I am in the process of developing a full stack smart home web app that will display the temperature of my apartment, which is old, drafty, and running on radiator heat - there are high temperature fluctuations in the Chicago winter. The project will utilize a Zigbee IOT network converted to MQTT format. The MQTT data will be stored in a local time-series database for serving to the frontend in a Next.js web app.
 
-
-Here you will find examples of projects completed as part of App Academy Open's (AA Open) software bootcamp. Please browse all of my public repositories at your leisure! There are an additional 150 repositories of completed practice content from App Academy that have been marked to private. I would love the opportunity to talk about them in a job interview!
-
-Some projects are stand-alone websites or web apps. To see those sites live, please navigate to my online portfolio (which is also hosted in a repository here on GitHub). <br>
+AA Open projects - AA Open consisted of about 200 learning modules which contained both theory and practice of software development. I've left some of these public to demonstrate content covered in the program. Some projects are stand-alone websites or web apps. To see those sites live, please navigate to my online portfolio (which is also hosted in a repository here on GitHub). <br>
 <a href="https://matt-scott.github.io" target="_blank">https://matt-scott.github.io</a>
 
 Below is a list of some of the topics I have covered through the AA Open curriculum:
@@ -20,4 +19,7 @@ Below is a list of some of the topics I have covered through the AA Open curricu
 <li><strong>SQL</strong>: Database design and visualization, Commands and query filters, Aggregates and subqueries, Efficiency</li>
 <li><strong>Sequelize</strong>: Migrations, Models, Seeders, Insertions, Associations, Ordering and aggregations, Pagination and search filters, Efficiency</li>
 <li><strong>Web security and authentication</strong>: CSRF, CORS and XSS, JWT and roles and permissions, Passwords</li>
+<li><strong>React</strong>: Function components, Routing, Hooks, Forms, Context, Class components</li>
+<li><strong>Redux</strong>: React Redux</li>
+<li><strong>Docker</strong>: Docker containers, Docker compose, microservices</li>
 </ul>
