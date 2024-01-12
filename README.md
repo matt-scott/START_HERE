@@ -5,7 +5,7 @@ Please browse all of my public repositories at your leisure! You will find repos
 I am in the process of developing a full stack smart home web app that will display the temperature of my apartment, which is old, drafty, and running on radiator heat - read: high temperature fluctuations in the Chicago winter. The project will utilize a Zigbee IOT network converted to MQTT format. The MQTT data will be stored in a local time-series database for serving to the frontend in a Next.js web app. The project will be containerized and run on a Raspberry Pi.
 
 ## AA Open projects
-AA Open consists of about 200 learning modules which contained both theory and practice of software development. I've left some of these public to demonstrate content covered in the program. Some projects are stand-alone websites or web apps. To see those sites live, please navigate to my online portfolio (which is also hosted in a repository here on GitHub). <br>
+AA Open consists of about 200 learning modules which contains both theory and practice of software development. I've completed the course as of January 2024 and left some of the projects public to demonstrate content covered in the program. Some projects are stand-alone websites or web apps. To see those sites live, please navigate to my online portfolio (which is also hosted in a repository here on GitHub). <br>
 <a href="https://matt-scott.github.io" target="_blank">https://matt-scott.github.io</a>
 
 Below is a list of some of the topics I have covered through the AA Open curriculum:
