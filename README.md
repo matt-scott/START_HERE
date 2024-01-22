@@ -1,6 +1,8 @@
 # Welcome to Matt Scott's GitHub Profile
 Please browse all of my public repositories at your leisure! You will find repositories of two types: those completed as part of App Academy Open's (AA Open) software bootcamp, and those completed on my own as personal projects.
 
+Content here will be related to web development. To see examples of firmware development, please contact me: mattscott251@gmail.com
+
 ## Personal projects
 I am in the process of developing a full stack smart home web app that will display the temperature of my apartment, which is old, drafty, and running on radiator heat - read: high temperature fluctuations in the Chicago winter. The project will utilize a Zigbee IOT network converted to MQTT format. The MQTT data will be stored in a local time-series database for serving to the frontend in a Next.js web app. The project will be containerized and run on a Raspberry Pi.
 
